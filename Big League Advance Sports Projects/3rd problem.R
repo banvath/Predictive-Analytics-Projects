@@ -10,7 +10,7 @@
 #but in Basketball, everyteam gets to play against every other team with equal number of games, so we could probably ignore this concern, but it's a good idea to keep in mind.
 
 
-#Criteria2:
+##Criteria2:
 #What is two teams have the same number of wins, but one team is winning with a great margin? In that case, we need to keep in to account the margin with which each team is winning?
 
 #Criteria 3:
